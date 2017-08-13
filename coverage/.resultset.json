@@ -1,0 +1,65 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/01012234/src/rspec-sample/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/01012234/src/rspec-sample/app/models/article.rb": [
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        2,
+        1,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null
+      ],
+      "/Users/01012234/src/rspec-sample/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/01012234/src/rspec-sample/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/01012234/src/rspec-sample/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/01012234/src/rspec-sample/app/controllers/application_controller.rb": [
+        0,
+        0,
+        0
+      ],
+      "/Users/01012234/src/rspec-sample/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/Users/01012234/src/rspec-sample/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1502540899
+  }
+}
